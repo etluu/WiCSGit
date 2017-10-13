@@ -1,2 +1,7 @@
 Group 1 List
+<<<<<<< HEAD
 :)
+=======
+Hey I'm here!
+Hi there
+>>>>>>> 2babfaaeccbfa2332e03742241939b13a7f4aefb
